@@ -1,5 +1,5 @@
 context:
-  version: 0.3.0
+  version: "0.4.0"
 
 package:
   name: sleek
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/nrempel/sleek/archive/v${{ version }}.tar.gz
-  sha256: 503e9535ebd7640a4c98c7fd1df2eb98eebed27f9862b4b46e38adbd4a9cf08f
+  sha256: d4ebd91cfa8478cc5da1e3b5a4ebe0acc4a854970e1fc3638f6dd15b21eccf7b
 
 build:
   number: 0
